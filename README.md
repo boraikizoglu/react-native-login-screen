@@ -7,7 +7,7 @@
 
 ## My Todo
 - [x] ~~Recreate the project with expo~~
-- [x] ~~Fix untouchable create account and forgot password ~~
+- [x] ~~Fix untouchable create account and forgot password~~
 - [x] ~~Use react navigation instead of react router flux~~
 - [ ] Create account and forgot password screens
 - [ ] Firebase integration
