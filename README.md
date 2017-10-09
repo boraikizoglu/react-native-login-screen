@@ -1,7 +1,23 @@
 # react-native-login-screen
 ![demo](https://raw.githubusercontent.com/dwicao/react-native-login-screen/master/demo.gif)  
 
-## Todo
+## This repo is redesigned by me for expo, react navigation and firebase integration.
+## View had some bugs. For example, it wasn't able to click create account text. It is fixed.
+
+
+## My Todo
+- [x] ~~Recreate the project with expo~~
+- [x] ~~React navigation is used instead of react router flux.~~
+- [ ] Create account and forgot password screens
+- [ ] Firebase integration
+
+
+
+
+
+
+
+## Repo's owner's Todo
 - [x] ~~Make circle grow on Android more smooth~~
 - [x] ~~Add animation on press back~~  
 - [x]  ~~Add back button~~  
