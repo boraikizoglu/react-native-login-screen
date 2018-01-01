@@ -2,7 +2,7 @@
 ![demo](https://raw.githubusercontent.com/dwicao/react-native-login-screen/master/demo.gif)  
 
 ## This repo is redesigned by me for expo, react navigation and firebase integration.
-## View had some bugs. For example, it wasn't able to click create account text. It is fixed.
+## View had some bugs. For example, user wasn't able to click create account text. It is fixed.
 
 
 ## My Todo
